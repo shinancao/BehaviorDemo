@@ -1,1 +1,1 @@
-# BehaviorDemo
+演示iOS中行为的使用场景，具体的描述可移步这里：<http://shinancao.github.io/2017/01/08/iOS-Behavior/>
